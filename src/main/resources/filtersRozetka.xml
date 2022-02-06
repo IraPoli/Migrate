@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "yes" ?>
+<filters>
+
+    <filter>
+        <id>01</id>
+        <itemName>phone</itemName>
+        <brand>ASUS</brand>
+        <sumLimit>100</sumLimit>
+    </filter>
+
+
+
+</filters>
